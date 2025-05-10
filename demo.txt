@@ -4,4 +4,4 @@ branch is light weigh
 branch is like a folder or container 
 we can raise a pr 
 git has compreshensive tool
-these changes are in local
+these changes are in remote
