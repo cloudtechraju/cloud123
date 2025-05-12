@@ -6,3 +6,8 @@ we can raise a pr
 git has compreshensive tool
 these changes are in localll
 we can change in local
+we can change in local
+these changes are in remote
+we can change in remote
+next tool is maven
+and then tomcat
