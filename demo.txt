@@ -2,9 +2,10 @@ we are learning how to use git
 now we are creating another line 
 branch is light weigh
 branch is  like a folder or container 
-we ca   ,nkjnkjnlmlkmkjnn raise a pr 
+we can raise a pr 
 git has compreshensive tool
 these changes are in localll
 we can change in local
 these changes are in remote
 we can change in remote
+FINALLY GIT CLOSED 
